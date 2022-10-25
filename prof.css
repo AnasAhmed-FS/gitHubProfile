@@ -1,0 +1,31 @@
+body{ 
+    background: #42275a;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #734b6d, #42275a);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #734b6d, #42275a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+.bgAllContent{
+    background: #20002c;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #cbb4d4, #20002c);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #cbb4d4, #20002c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    margin: 20px;
+    border-radius: 2rem;
+    padding: 10px;
+}
+.shSearch input{
+      
+ }
+ #rightSide #leftSide ,#rightSide  .rSd{
+    color: #fff;
+ }
+ #rightSide #repos a{
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(32, 0, 44,0.5); 
+   
+ }
+.avatar {
+    border: 3px solid #2a2a72;
+    border-radius: 50%;  
+}
